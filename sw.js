@@ -1,4 +1,4 @@
-const CACHE = 'dudububu-v1';
+const CACHE = 'dudububu-v2';
 const ASSETS = [
   '/dudububu/',
   '/dudububu/index.html',
